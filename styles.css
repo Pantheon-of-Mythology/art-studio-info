@@ -5,4 +5,3 @@ h1 { font-size: 1.75rem; line-height: 1.2; }
 a { color: inherit; text-underline-offset: 0.18em; }
 a:focus-visible { outline: 2px solid currentColor; outline-offset: 4px; }
 p { overflow-wrap: anywhere; }
-.date { font-size: 0.875rem; }
